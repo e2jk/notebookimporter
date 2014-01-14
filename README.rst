@@ -35,8 +35,7 @@ The file containing the notes you want to import to Evernote must follow these r
 - One line in the CSN file represents one note
 - A line that has any text in the 5th column ("Do not upload") will not be sent to Evernote
 
-
-*TODO:* add an example CSV file in the repository.
+Have a look at the ``sample.csv`` file for an example.
 
 Known Limitations
 -----------------

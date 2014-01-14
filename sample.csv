@@ -1,0 +1,7 @@
+Title,Content,Labels,Notebook,Do not upload
+First note,"Will go to the default Notebook, tagged as "".ActiveProjects""",.ActiveProjects,,
+Second note,"Will not be sent out, as the 5th column is populated",,Books,Y
+"Third note, with a label","Will go to the Notebook called ""GTD""",@Calls,GTD,
+Fourth note,"This one has several lines in the body.
+
+That is no problem at all!",,,
