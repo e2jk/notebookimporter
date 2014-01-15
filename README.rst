@@ -3,7 +3,7 @@ Notebook Importer
 
 Used to import notes into Evernote from a CSV file.
 
-This utility will send one email per note to your secret Evernote email address, which you can find in `your Evenote settings page <https://www.evernote.com/Settings.action>`_.
+This utility will send one email per note to your secret Evernote email address, which you can find in `your Evenote settings page <https://www.evernote.com/Settings.action>`_. It uses Gmail to send the emails to Evernote.
 
 How to use
 ----------
@@ -50,6 +50,8 @@ Known Limitations
 - Only one label can be specified (you should be able to cheat by specifying a first label without #, then separating further labels with spaces and ensuring the other labels do start with a # - not tested)
 
 - Only Evernote is supported at this time, however it looks like all the major players are currently lacking an import feature, so this utility should prove helpful for other services, e.g. Springpad.
+
+- You need a Gmail address/password to send the notes to Evernote.
 
 License
 -------
